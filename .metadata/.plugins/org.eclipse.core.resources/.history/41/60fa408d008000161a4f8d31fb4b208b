@@ -1,0 +1,12 @@
+package lab1;
+import java.util.*;
+
+public class calc {
+
+	
+		 String []list={"ma","cao","yuan"};
+		 System.out.println(list.length);
+
+	
+	}
+
